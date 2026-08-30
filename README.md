@@ -4,5 +4,6 @@
 - Preparando-se para o mercado de tecnologia
 - como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:Henricsonrenan7@gmail.com)
-[![Instagram](https://shields.io)]([https://instagram.com](https://www.instagram.com/renan_hsj/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/renan_hsj/)
+
 
