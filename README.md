@@ -4,7 +4,7 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="30" width="30"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="HTML" height="30" width="40"
+ <img align="center" alt="HTML" height="30" width="30"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="30"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -12,6 +12,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Csharp" height="30" width="30"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+<img align="center" alt="sql" height="30" width="30"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg">
  
 - Preparando-se para o mercado de tecnologia
  
