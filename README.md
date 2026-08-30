@@ -21,5 +21,5 @@ Preparando-se para o mercado de tecnologia**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/renan_hsj/)
 
 ---
-## ✨*“Progresso é a soma dos problemas solucionados. Evolução é barreira vencida.”*✨
+ **✨*“Progresso é a soma dos problemas solucionados. Evolução é barreira vencida.”*✨**
 
