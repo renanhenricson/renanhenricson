@@ -16,7 +16,7 @@ Preparando-se para o mercado de tecnologia**
   <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="SQL" height="40" width="40" src="https://jsdelivr.net">
 </div>
----
+
 - como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:Henricsonrenan7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/renan_hsj/)
