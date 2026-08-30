@@ -1,4 +1,4 @@
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e C# |
 Preparando-se para o mercado de tecnologia**
 ---
 ## Sobre mim
