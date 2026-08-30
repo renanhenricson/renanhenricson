@@ -20,4 +20,6 @@ Preparando-se para o mercado de tecnologia**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:Henricsonrenan7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/renan_hsj/)
 
+---
+## ✨*“Progresso é a soma dos problemas solucionados. Evolução é barreira vencida.”*✨
 
