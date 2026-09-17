@@ -1,5 +1,5 @@
 ## 💻Estudante de Desenvolvimento de Sistemas
-Preparando-se para o mercado de tecnologia**
+**Preparando-se para o mercado de tecnologia**
 ---
 ## 🚀 Sobre mim
 - 📚 Atualmente cursando **Técnico em Desenvolvimento de Sistemas
